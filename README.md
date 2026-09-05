@@ -54,6 +54,50 @@ The goal is not just to create charts, but to understand **what the data is sayi
 
 ---
 
+## 🛒 02 — Sales Data Analysis
+
+**Objective:** Analyze sales data to understand business performance, sales trends, profitability, customers, and product performance.
+
+**Tools:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+### Key Areas:
+- Data cleaning & preprocessing
+- Sales & profit analysis
+- Yearly & monthly sales trends
+- Category & sub-category analysis
+- Regional analysis
+- Customer analysis
+- Discount vs. profit analysis
+- Shipping performance analysis
+- KPI analysis
+- Business insights & recommendations
+
+📁 **Project:** `02-Sales-Data-Analysis/`
+
+
+---
+
+## 👥 03 — E-Commerce Customer & Sales Analysis
+
+**Objective:** Analyze e-commerce transactions to understand customer behavior, purchasing patterns, sales performance, and customer value.
+
+**Tools:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+### Key Areas:
+- Data cleaning & preprocessing
+- Customer behavior analysis
+- Sales & revenue analysis
+- Product performance analysis
+- Country-wise sales analysis
+- Top customer identification
+- Repeat customer analysis
+- Average Order Value (AOV)
+- Customer purchasing frequency
+- RFM-based customer segmentation
+- Business insights & recommendations
+
+📁 **Project:** `03-Ecommerce-Customer-Analysis/`
+
 ### 🚀 More Projects Coming Soon...
 
 This portfolio will continuously grow with projects covering areas such as:
